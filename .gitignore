@@ -15,6 +15,10 @@ test-results/
 # Runtime outputs
 output/reports/*
 !output/reports/.gitkeep
+!output/reports/sample_run/
+!output/reports/sample_run/bug_report.json
+!output/reports/sample_run/bug_report.md
+!output/reports/sample_run_memory.json
 output/screenshots/*
 !output/screenshots/.gitkeep
 
