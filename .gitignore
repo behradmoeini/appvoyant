@@ -1,0 +1,27 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Playwright artifacts
+playwright-report/
+test-results/
+
+# Runtime outputs
+output/reports/*
+!output/reports/.gitkeep
+output/screenshots/*
+!output/screenshots/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
